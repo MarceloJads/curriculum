@@ -6,4 +6,10 @@
 .h1{
     font-size: large;
     font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.h2{
+    font-size: medium;
+    font-weight: normal;
+    font-family: 'Times New Roman', Times, serif;
 }
