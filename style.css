@@ -18,6 +18,8 @@ body{
 }
 
 .box{
+    margin-left: 10%;
+    margin-right: 10%;
     border-radius: 20pt;
     background-color: white;
     box-shadow: black;
