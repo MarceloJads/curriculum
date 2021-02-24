@@ -9,6 +9,10 @@
 }
 
 body{
+    background-color: grey;
+    padding: 30%;
+    justify-content: center;
+    align-items: center;
     font-size: medium;
     font-weight: normal;
     font-family: 'Times New Roman', Times, serif;
