@@ -10,18 +10,17 @@
 
 body{
     background-color: grey;
-    justify-content: start;
-    align-items: center;
+    justify-content: center;
+    align-items: flex-start;
     font-size: medium;
     font-weight: normal;
     font-family: 'Times New Roman', Times, serif;
 }
 
 .box{
-    width: 70%;
     border-radius: 20pt;
     background-color: white;
-    padding: 30%;
+    padding: 50%;
     box-shadow: black;
 
 }
