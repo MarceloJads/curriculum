@@ -19,7 +19,7 @@ body{
 
 .box{
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
     border-radius: 20pt;
     background-color: white;
     box-shadow: black;
