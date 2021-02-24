@@ -18,9 +18,10 @@ body{
 }
 
 .box{
+    justify-content: start;
+    align-items: flex-start;
     border-radius: 20pt;
     background-color: white;
-    padding: 70%;
     box-shadow: black;
-
+    width: 30%;
 }
